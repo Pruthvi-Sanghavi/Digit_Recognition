@@ -21,6 +21,7 @@ cd pruthvi_proj2/pruthvi_P2/code/
 ```
 - Run the following.
 ```
+pip install jupyter notebook
 pip install -r requirements.txt
 ```
 
