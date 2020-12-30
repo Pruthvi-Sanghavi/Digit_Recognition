@@ -1,7 +1,7 @@
 
 # Digit Recognition and Monkey classification.
 [![Build Status](https://travis-ci.org/Pruthvi-Sanghavi/Digit_Recognition.svg?branch=main)](https://travis-ci.org/Pruthvi-Sanghavi/Digit_Recognition)
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Libraries
 - Tensorflow
