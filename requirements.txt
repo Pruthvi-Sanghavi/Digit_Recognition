@@ -2,4 +2,3 @@ matplotlib
 numpy
 keras
 tensorflow
-jupyter notebook
