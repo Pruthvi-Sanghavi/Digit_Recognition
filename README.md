@@ -1,5 +1,5 @@
-# SPR_Project_2
-- Digit Recognition and Monkey classification.
+
+# Digit Recognition and Monkey classification.
 
 ## Libraries
 - Tensorflow
