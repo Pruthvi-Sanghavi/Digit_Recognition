@@ -40,7 +40,7 @@ mkdir datasets
 
 - Copy the ```training```, ```validation``` folders and ```monkey_labels.txt``` from the downloaded folder and paste it to datasets folder.
 
-## Training the dataset
+## Training the model
 - Type the following in command prompt 
 - For Digit Recognition using CNN
 ```
@@ -68,7 +68,7 @@ ipython notebook monkeyCNN.ipynb
 cd code/monkey_classifier
 ipython notebook monkeyTL.ipynb
 ```
-## Trained models
+## Using the Trained models
 ```
 cd code/monkey_classifier
 ipython notebook monkeyTL_trained.ipynb
