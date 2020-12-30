@@ -1,6 +1,6 @@
 
 # Digit Recognition and Monkey classification.
-[![Build Status](https://travis-ci.org/Pruthvi-Sanghavi/TenezBot.svg?branch=master)](https://travis-ci.org/Pruthvi-Sanghavi/TenezBot)
+[![Build Status](https://travis-ci.org/Pruthvi-Sanghavi/Digit_Recognition.svg?branch=main)](https://travis-ci.org/Pruthvi-Sanghavi/Digit_Recognition)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Libraries
